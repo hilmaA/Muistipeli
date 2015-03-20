@@ -9,6 +9,6 @@ Pelaaja
 
 
 Toiminnot:
--pelin aloitus klikkaamalla
--pelin pelaaminen klikkailemalla alustalla olevia kortteja
--pelin lopetus
+1. pelin aloitus klikkaamalla
+2. pelin pelaaminen klikkailemalla alustalla olevia kortteja
+3. pelin lopetus
